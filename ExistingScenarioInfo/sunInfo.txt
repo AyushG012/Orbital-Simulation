@@ -1,0 +1,12 @@
+Mass: 1.99e30 kg
+
+Real Colour: White
+
+Body Radius: 6.96e5 km
+
+No.of Planets: 8
+
+Gases: Hydrogen and Helium
+
+Surface Temperature:
+5500 degrees celsius

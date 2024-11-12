@@ -1,0 +1,11 @@
+Circular orbits are the simplest kinds of orbits in celestial mechanics, where an orbiting body remains at constant radius as it travels around a gravitating mass. In reality, no orbits of astronomical bodies are perfectly circular, since every object is constantly perturbed by the gravity of a very large number of other nearby objects like the planets in the solar system. However, when a small object like a satellite, asteroid, or small moon orbits a large object like a planet or star, it is a good approximation to treat the system as a two-body system with the larger body fixed. This has been done on the right. 
+This occurs due to a perpendicular velocity to a centripetal force, in this case gravity.
+
+F = GMm/r^2  - Force due to gravity on an object
+F = mv^2/r   - Force due to circular motion
+
+These are the same in this case.
+
+
+Source: brilliant.org
+

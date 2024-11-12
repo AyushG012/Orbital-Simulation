@@ -1,0 +1,13 @@
+This is the body which the centripetal force due to gravity acts on. An equal and opposite force acts on the star but because it is so much heavier, there is no effect on it. 
+The body moves in circular motion because:
+-The force acts towards a constant central position, in this case the star. (white arrow)
+-The velocity is perpendicular to the centripetal force. (orange arrow)
+This means the force does NO WORK on the planet as W=Fs and no distance is moved in the direction of the force, but perpendicular to it.
+Although velocity is changing due to a changing direction, speed is constant as it is a scalar.
+In this case we can equate th centripetal force to the force due to gravity and this can give us lots of information.
+For example:
+
+GMm/r^2 = mv^2/r
+v = sqrt(Gm/r)
+
+This tells us the orbital velocity of the planet.

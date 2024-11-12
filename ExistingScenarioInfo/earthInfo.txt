@@ -1,0 +1,18 @@
+Mass: 5.97e24 kg
+
+Mean Velocity: 29784 km/s
+
+Mean Orbital Radius: 150e6 km
+
+Body Radius: 6371 km
+
+Axis of Rotation: 23.4 degrees
+
+No.of Moons: 1
+
+Atmosphere:
+78% nitrogen, 21% oxygen, and 1% other gases
+
+
+
+

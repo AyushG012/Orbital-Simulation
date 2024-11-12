@@ -1,0 +1,5 @@
+This is the central body which exerts a gravitational and in this case centripetal force on the orbiting body. It mas is so high that the equal and opposite force this star experiences is negligible.
+
+In reality the star would be much bigger than the body, but this simulation is not to scale so that you can see the effect on the planet more clearly.
+
+Had the orbit been elliptical, the force would vary with distance as it would be larger closer to the star, and this would not folow the rules of circular motion, teh evlocity would not be perpendicular to the force at all times.
