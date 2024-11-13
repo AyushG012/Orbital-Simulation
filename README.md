@@ -12,7 +12,10 @@ PhET, The Sky Live, Gravity Simulator.org, Physics Classroom Interactive
 In hind sight all the source files should be in a sub folder but if I were to change his now it would mess up the file paths to the images/txt files in the other folders.
 
 Existing Scenario Bodies -> Contains the images used in this mode.
+
 Existing Scenario Info   -> Contains the text files containing the output fetched in this mode.
+
 Images                   -> Contains all image files used across the sign up and login and navigation pages
+
 Theory Scenario Info     -> Contains the text files containing the output fetched in this mode.
 
