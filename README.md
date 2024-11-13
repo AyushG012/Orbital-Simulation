@@ -4,9 +4,11 @@ My simulation is aimed at a variety of different audiences. One of the main stak
 However, a large section of the simulation is also aimed at those students that are genuinely interested in astrophysics and want to learn more about gravity and orbits. For example, more complex orbits such as elliptical orbits can be illustrated, and students can gain an understanding of how velocity and force vectors work as a body’s position in an orbit varies. Moreover, it includes real-life scenarios so they can learn about actual planets in our solar system and is a way for students to recognize if they have an interest.
 
 **Inspiration**
+
 PhET, The Sky Live, Gravity Simulator.org, Physics Classroom Interactive
 
 **Folder Structure**
+
 In hind sight all the source files should be in a sub folder but if I were to change his now it would mess up the file paths to the images/txt files in the other folders.
 
 Existing Scenario Bodies -> Contains the images used in this mode.
