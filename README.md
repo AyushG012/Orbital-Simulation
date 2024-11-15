@@ -9,7 +9,7 @@ PhET, The Sky Live, Gravity Simulator.org, Physics Classroom Interactive
 
 **Folder Structure**
 
-In hind sight all the source files should be in a sub folder but if I were to change his now it would mess up the file paths to the images/txt files in the other folders.
+In hind sight all the source files should be in a sub folder but if I were to change his now it would mess up the file paths to the images/txt files in the other code files.
 
 Existing Scenario Bodies -> Contains the images used in this mode.
 
